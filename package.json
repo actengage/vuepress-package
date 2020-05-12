@@ -4,7 +4,8 @@
   "description": "A Vuepress plugin that adds the contents of package.json to global template context.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release-patch": "npm version patch -m \"%s\" && npm publish"
   },
   "repository": {
     "type": "git",

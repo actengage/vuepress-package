@@ -1,7 +1,5 @@
-const path = require('path');
-
-export default (options, ctx) => ({
+module.exports = ((options, ctx) => ({
     enhanceAppFiles: [
-        path.resolve('./enhanceAppFile.js')
+        
     ]
-});
+}));
