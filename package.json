@@ -1,0 +1,24 @@
+{
+  "name": "vuepress-package",
+  "version": "0.1.0",
+  "description": "A Vuepress plugin that adds the contents of package.json to global template context.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/actengage/vuepress-package.git"
+  },
+  "keywords": [
+    "Vuepress",
+    "package.json",
+    "version"
+  ],
+  "author": "Justin Kimbrell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/actengage/vuepress-package/issues"
+  },
+  "homepage": "https://github.com/actengage/vuepress-package#readme"
+}
