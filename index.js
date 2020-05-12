@@ -1,5 +1,3 @@
-module.exports = ((options, ctx) => ({
-    enhanceAppFiles: [
-        
-    ]
-}));
+module.exports = {
+
+};

@@ -1,6 +1,6 @@
 {
   "name": "vuepress-package",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Vuepress plugin that adds the contents of package.json to global template context.",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/actengage/vuepress-package/issues"
   },
-  "homepage": "https://github.com/actengage/vuepress-package#readme"
+  "homepage": "https://github.com/actengage/vuepress-package#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
