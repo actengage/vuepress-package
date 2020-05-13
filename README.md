@@ -3,7 +3,7 @@
 The purpose of this plugin is to provide a way to define constants that are
 parsed before markdown and template components are rendered. This allows dynamic
 variables, like package.json version numbers, to be inserted into code examples,
-and be parsed BEFORE anything is rendered.
+and parsed BEFORE anything is rendered.
 
 ## Installation
 
