@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/actengage/vuepress-package.git"
+    "url": "git+https://github.com/actengage/vuepress-plugin-template-constants.git"
   },
   "keywords": [
     "Vuepress",
@@ -21,9 +21,9 @@
   "author": "Justin Kimbrell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/actengage/vuepress-package/issues"
+    "url": "https://github.com/actengage/vuepress-plugin-template-constants/issues"
   },
-  "homepage": "https://github.com/actengage/vuepress-package#readme",
+  "homepage": "https://github.com/actengage/vuepress-plugin-template-constants#readme",
   "publishConfig": {
     "access": "public"
   },
