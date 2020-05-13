@@ -24,5 +24,9 @@
   "homepage": "https://github.com/actengage/vuepress-package#readme",
   "publishConfig": {
     "access": "public"
+  },
+  "devDependencies": {
+    "lodash.template": "^4.5.0",
+    "markdown-it": "^10.0.0"
   }
 }

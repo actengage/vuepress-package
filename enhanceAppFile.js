@@ -1,3 +1,4 @@
-export default ({ Vue }) => {
-    
+module.exports = (a) => {
+
+    console.log(a);
 };
