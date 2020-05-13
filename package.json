@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-template-constants",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A Vuepress plugin that adds the contents of package.json to global template context.",
   "main": "index.js",
   "scripts": {
