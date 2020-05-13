@@ -39,6 +39,8 @@ module.exports = {
 };
 ```
 
+*Lodash Templates are used to parse variables.*.
+
 ``` js
 <%= first %> // outputs: Benjamin
 <%= last %> // outputs: Franklin
